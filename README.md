@@ -1,2 +1,2 @@
 # tailwindcss-dotnetcore-template
-.Net Core Dark mode Using Tailwind CSS
+.Net 5 Dark mode Using Tailwind CSS
